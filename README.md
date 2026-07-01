@@ -9,7 +9,6 @@ Junior Software Developer focused on:
 
 ## 🚀 Backend / .NET
 
-- **SGR** — Sistema de gestión de restaurantes con ASP.NET Core, SQL y arquitectura por capas.
 - **RealState** — Plataforma web inmobiliaria con ASP.NET Core MVC, Entity Framework y SQL Server.
 - **RechargeFunctions** — App .NET MAUI integrada con API REST.
 
