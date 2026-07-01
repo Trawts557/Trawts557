@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, I'm Stwart Amarante 👋
 
-<!--
-**Trawts557/Trawts557** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Developer focused on:
+- C#
+- ASP.NET Core
+- SQL Server
+- React
+- QA Automation
 
-Here are some ideas to get you started:
+## 🚀 Backend / .NET
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **SGR** — Sistema de gestión de restaurantes con ASP.NET Core, SQL y arquitectura por capas.
+- **RealState** — Plataforma web inmobiliaria con ASP.NET Core MVC, Entity Framework y SQL Server.
+- **RechargeFunctions** — App .NET MAUI integrada con API REST.
+
+## 🧪 QA / Automation
+
+- **Sales Automation System** — Sistema de ventas con pruebas automatizadas y flujo CI/CD.
+- **ETL Opinion Analyzer** — Análisis de opiniones y procesamiento de datos.
+
+## 📱 Mobile
+
+- **Hunter x Hunter App** — App Flutter con navegación, video, audio y minijuego.
+- **Flutter API App** — App Flutter consumiendo APIs externas.
+- **RechargeFunctions** — App .NET MAUI integrada con API REST.
+- 
+## 🌐 Frontend
+
+- **Link Up** — Red social con presentación web con MCV.
+- **Ionic Mobile App** — App móvil con Ionic React y TypeScript.
