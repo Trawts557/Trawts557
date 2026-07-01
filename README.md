@@ -23,7 +23,7 @@ Junior Software Developer focused on:
 - **Hunter x Hunter App** — App Flutter con navegación, video, audio y minijuego.
 - **Flutter API App** — App Flutter consumiendo APIs externas.
 - **RechargeFunctions** — App .NET MAUI integrada con API REST.
-- 
+  
 ## 🌐 Frontend
 
 - **Link Up** — Red social con presentación web con MCV.
