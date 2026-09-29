@@ -26,4 +26,4 @@ Junior Software Developer focused on:
 ## 🌐 Frontend
 
 - **Link Up** — Red social con presentación web con MCV.
-- **Ionic Mobile App** — App móvil con Ionic React y TypeScript.
+- **Flutter API App** — App móvil con Ionic Flutter con consumo de API.
